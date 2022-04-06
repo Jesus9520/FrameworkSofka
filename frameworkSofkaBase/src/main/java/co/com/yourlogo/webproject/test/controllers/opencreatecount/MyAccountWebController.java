@@ -1,4 +1,4 @@
-package co.com.yourlogo.webproject.test.controllers;
+package co.com.yourlogo.webproject.test.controllers.opencreatecount;
 
 import co.com.yourlogo.webproject.test.page.MyAccountPage;
 import co.com.sofka.test.actions.WebAction;

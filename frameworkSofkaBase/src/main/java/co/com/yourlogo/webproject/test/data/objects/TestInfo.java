@@ -57,7 +57,7 @@ public class TestInfo {
     }
 
 
-    public String getFeatureName() {
+    public static String getFeatureName() {
         return featureName;
     }
 

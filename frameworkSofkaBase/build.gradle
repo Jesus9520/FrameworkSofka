@@ -74,9 +74,8 @@ test {
 
     reports.junitXml.setEnabled(false)
     reports.html.setEnabled(false)
-  //  maxParallelForks  1
+    //  maxParallelForks  1
     testLogging {
         exceptionFormat = 'full'
     }
 }
-

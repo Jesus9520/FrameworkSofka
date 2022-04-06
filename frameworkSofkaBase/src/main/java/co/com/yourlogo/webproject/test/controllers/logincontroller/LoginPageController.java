@@ -1,4 +1,4 @@
-package co.com.yourlogo.webproject.test.controllers;
+package co.com.yourlogo.webproject.test.controllers.logincontroller;
 
 import co.com.yourlogo.webproject.test.page.LandingPage;
 import co.com.sofka.test.actions.WebAction;

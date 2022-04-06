@@ -1,4 +1,4 @@
-package co.com.yourlogo.webproject.test.controllers;
+package co.com.yourlogo.webproject.test.controllers.opencreatecount;
 
 import co.com.yourlogo.webproject.test.model.Customer;
 import co.com.yourlogo.webproject.test.page.CreateAnAccountPage;
